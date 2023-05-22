@@ -12,16 +12,25 @@ header {
     margin-left: 10px;
 }
 
+h2 {
+    margin-top: -15px;
+}
+
 .sottotitolo-parte-1 {
     color: #868686;
+    font-size: 15px;
 }
 
 .sottotitolo-parte-2 {
     color: #00A7E5;
+    font-size: 15px;
 }
 
 .data-articolo {
-    font-size: 10px;
+    font-size: 12px;
+    color: #868686;
+    margin-top: -15px;
+    margin-bottom: 20px;
 }
 
 .descrizione-immagini {
@@ -32,8 +41,24 @@ header {
     background-color: yellow;
 }
 
+.sfondo-riga-1 {
+    background-color: #00A7E5;
+    color: white;
+}
 
 
+.sfondo-riga-2 {
+    background-color: #B1E5F2;
+}
+
+
+.sfondo-riga-3 {
+    background-color: #FFFFFF;
+}
+
+.sfondo-riga-4 {
+    background-color: #B1E5F2;
+}
 
 
 .interests {
