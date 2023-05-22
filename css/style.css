@@ -1,7 +1,7 @@
 header {
     background-color: #4EA0FF;
     background-image: url(../img/pattern.png);
-    background-size: 480px;
+    background-size: 50%;
     height: 120px;
 }
 
@@ -9,5 +9,51 @@ header {
     width: 200px;
     height: 160px;
     margin-top: 5px;
+    margin-left: 10px;
+}
+
+.sottotitolo-parte-1 {
+    color: #868686;
+}
+
+.sottotitolo-parte-2 {
+    color: #00A7E5;
+}
+
+.data-articolo {
+    font-size: 10px;
+}
+
+.descrizione-immagini {
+    font-size: 10px;
+}
+
+.parte-evidenziata-in-giallo {
+    background-color: yellow;
+}
+
+
+
+
+
+.interests {
+    color: #868686;
+}
+
+.immagine-monitor-footer {
+    background-image: url(../img/monitor.jpg);
+    height: 180px;
+    width: 270px;
+}
+
+.immagine-graph-footer {
+    background-image: url(../img/graph.jpg);
+    height: 180px;
+    width: 270px;
+}
+
+.testofooter {
+    color: white;
+    padding-top: 10px;
     margin-left: 10px;
 }
